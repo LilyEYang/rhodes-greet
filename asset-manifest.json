@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/rhodes-greet/static/js/main.062c5d97.js",
+    "main.js": "/rhodes-greet/static/js/main.f9e4b0ed.js",
     "index.html": "/rhodes-greet/index.html",
-    "main.062c5d97.js.map": "/rhodes-greet/static/js/main.062c5d97.js.map"
+    "main.f9e4b0ed.js.map": "/rhodes-greet/static/js/main.f9e4b0ed.js.map"
   },
   "entrypoints": [
-    "static/js/main.062c5d97.js"
+    "static/js/main.f9e4b0ed.js"
   ]
 }
